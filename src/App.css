@@ -1,0 +1,22 @@
+.background{
+  background: url("./images/background.png");
+  height: 598px;
+  width: 1063px
+ 
+}
+.logo{
+  position: relative;
+  width: 50%;
+}
+.first-line{display: flex;
+justify-content: center;
+font-size: 100px;
+padding: 20px}
+.second-line{display: flex;
+justify-content: center;
+font-size: 30px}
+.content{
+  margin:  0 60px
+}
+.timer-content{margin: 20px;
+}
